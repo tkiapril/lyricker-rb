@@ -20,7 +20,7 @@ get '/' do
 <input type="submit" value="이 가사를 번역 (시간이 좀 걸립니다)">
 <br />
 <textarea name="lyrics" rows="40" cols="80">
-<textarea />
+</textarea>
 <br />
 <input type="submit" value="이 가사를 번역 (시간이 좀 걸립니다)">
 </form>
